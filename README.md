@@ -8,7 +8,7 @@ The game “Guessing the number” is literally about guessing the number. The g
 
 
 ## 1-level-DFD
-![1](Guessing-The-Number/DFD/first.png)
+![1]([Guessing-The-Number/DFD/first.png](https://github.com/dchung1209/Guessing-The-Number/blob/main/DFD/first.png?raw=true))
 
 
 ## 2-level-DFD
